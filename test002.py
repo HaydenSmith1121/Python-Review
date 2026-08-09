@@ -14,4 +14,5 @@ print("hello world")
 a=100
 b=1.2
 c=True
-print(type(a),type(b),type(c))
+d="abc123"
+print(type(a),type(b),type(c),type(d))
